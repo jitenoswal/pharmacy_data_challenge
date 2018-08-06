@@ -1,0 +1,10 @@
+Sun, 05 Aug 2018 20:04:44 INFO     [Start] Validating File Setup
+Sun, 05 Aug 2018 20:04:44 INFO     [Attr] Input File Path --> input_filepath: ./insight_testsuite/tests/test_1/input/itcont.txt
+Sun, 05 Aug 2018 20:04:44 INFO     [Attr] Output File Path --> output_filepath: ./insight_testsuite/tests/test_1/output/top_cost_drug.txt
+Sun, 05 Aug 2018 20:04:44 INFO     [Done] Validating setup
+Sun, 05 Aug 2018 20:04:44 INFO     [Starting] To read through the input file
+Sun, 05 Aug 2018 20:04:44 ERROR    [Error] Line_number: 1, Exception: ValueError total_cost in the input_file for *this* line is not numerical.
+Sun, 05 Aug 2018 20:04:44 INFO     [Done] Reading through the input file
+Sun, 05 Aug 2018 20:04:44 INFO     [Starting] Generating (sorting) top inventory list
+Sun, 05 Aug 2018 20:04:44 INFO     [Done] Generated top inventory list file at output_file_path
+Sun, 05 Aug 2018 20:04:44 INFO     [Perf] Time elapsed for generating pharma list from orders_list: 0.000641ms
